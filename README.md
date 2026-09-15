@@ -79,3 +79,7 @@ The program performs basic error handling. If any of the requests fail or return
 - Please Note that there is currently no "safe" way to exit the Program as that would require threading which will probably be added later on, therefore when terminating the program it is important to check on the official Bolt app if the Ride got terminated as chances are the program broke out of the loop early and therefore didn't send the necessary `POST` requests to terminate the ride.
 
 - Note: This program is provided as-is and may require adjustments based on any changes to the Bolt API or the authentication process.
+Control + Shift + m
+tab
+
+m
